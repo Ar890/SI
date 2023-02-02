@@ -70,6 +70,10 @@ a:hover {
     color: #EC5A28;
 }
 
+main {
+    width: 100%;
+}
+
 /* animation */
 .animation {
     color: #fff;
