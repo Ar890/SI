@@ -4,7 +4,7 @@ body {
     font-family: 'CursiveSerifBold', Arial, Helvetica, sans-serif;
     background-color: #000;
     color: #fff;
-    font-size: 50px!important;
+    font-size: 50px;
     animation: colorchange 5s infinite;
 }
 
@@ -37,6 +37,7 @@ header {
     width: 100%;
     display: block;
     align-items: center;
+    font-size: 10px;
 }
 
 .header .logo img {
